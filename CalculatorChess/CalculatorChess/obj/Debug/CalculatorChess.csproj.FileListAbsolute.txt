@@ -1,6 +1,0 @@
-C:\Users\sbranham\Source\Workspaces\CalculatorChess\CalculatorChess\bin\Debug\CalculatorChess.exe.config
-C:\Users\sbranham\Source\Workspaces\CalculatorChess\CalculatorChess\bin\Debug\CalculatorChess.exe
-C:\Users\sbranham\Source\Workspaces\CalculatorChess\CalculatorChess\bin\Debug\CalculatorChess.pdb
-C:\Users\sbranham\Source\Workspaces\CalculatorChess\CalculatorChess\obj\Debug\CalculatorChess.exe
-C:\Users\sbranham\Source\Workspaces\CalculatorChess\CalculatorChess\obj\Debug\CalculatorChess.pdb
-C:\Users\sbranham\Source\Workspaces\CalculatorChess\CalculatorChess\obj\Debug\CalculatorChess.csprojResolveAssemblyReference.cache
